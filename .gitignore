@@ -1,0 +1,13 @@
+LikesList.csproj
+.vscode/launch.json
+.vscode/tasks.json
+obj/LikesList.csproj.nuget.dgspec.json
+obj/LikesList.csproj.nuget.g.props
+obj/LikesList.csproj.nuget.g.targets
+obj/project.assets.json
+obj/project.nuget.cache
+obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+obj/Debug/netcoreapp3.1/LikesList.AssemblyInfo.cs
+obj/Debug/netcoreapp3.1/LikesList.AssemblyInfoInputs.cache
+obj/Debug/netcoreapp3.1/LikesList.assets.cache
+obj/Debug/netcoreapp3.1/LikesList.csprojAssemblyReference.cache
